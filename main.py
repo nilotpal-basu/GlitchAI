@@ -7,7 +7,7 @@ from text_to_speech import amain
 def start_chat_client(voice,speed=1):
     c=0
     # FastAPI server URL
-    server_url = "https://09b2-34-80-52-198.ngrok-free.app/chat"  # Adjust URL if using ngrok
+    server_url = "your_public_ngrok_url/chat"  # Adjust URL if using ngrok
 
     while True:
         user_input=transcribe()
