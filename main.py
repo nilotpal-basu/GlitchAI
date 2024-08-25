@@ -1,7 +1,7 @@
 import requests
 import time
 import asyncio
-from speech import transcribe
+from speech_to_text import transcribe
 from text_to_speech import amain
 
 def start_chat_client(voice,speed=1):
