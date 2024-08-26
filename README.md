@@ -1,7 +1,7 @@
 
 # GlitchAI
 
-![image](![glitchAI_img](https://github.com/user-attachments/assets/f8076ac9-4dc5-4838-874d-63325397bf70)
+![glitchAI_img](https://github.com/user-attachments/assets/f8076ac9-4dc5-4838-874d-63325397bf70)
 
 
 GlitchAI is a real-time speech-to-speech voice assistant designed to revolutionize your interactions with technology. With its advanced natural language processing capabilities and intuitive voice interface, GlitchAI understands your spoken requests and responds in a clear, human-like voice.
