@@ -18,10 +18,10 @@ GlitchAI is a real-time speech-to-speech voice assistant designed to revolutioni
 
 ## Technologies
 
-- Speech-to-Text: OpenAI's Whisper base English model
-- Language Model: Gemini 1.5 Flash integrated with LangChain
+- Speech-to-Text: OpenAI's [Whisper](https://github.com/openai/whisper) base English model
+- Language Model: [Gemini 1.5 Flash](https://github.com/matiassingers/awesome-readme) integrated with LangChain
 - Local Deployment: Ngrok
-- Text-to-Speech: Edge-TTS
+- Text-to-Speech: [Edge-TTS](https://github.com/rany2/edge-tts)
 - Programming Language: Python
 
 ## Installation and Usage
@@ -68,11 +68,4 @@ Contributions are welcome! Please follow these guidelines:
 ## License
 
 This project is licensed under the [MIT](https://github.com/nilotpal-basu/GlitchAI/blob/main/LICENSE) License. 
-
-
-## Acknowledgements
-
- - [Whisper](https://github.com/openai/whisper)
- - [Google Gemini](https://github.com/matiassingers/awesome-readme)
- - [Edge-tts](https://github.com/rany2/edge-tts)
 
